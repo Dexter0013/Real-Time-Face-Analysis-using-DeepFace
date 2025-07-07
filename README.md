@@ -30,9 +30,4 @@ streamlit run app.py
   
 ![pred1](https://github.com/user-attachments/assets/d19bea0e-3c3d-48e1-bc50-6d7f310f5e00)
 
-https://github.com/user-attachments/assets/fc66e26b-244a-4238-b8e6-46e3c6e3e012
-
-
-You can generate this by capturing a snapshot from your webcam feed while the app is running.
-
 </details>

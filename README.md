@@ -1,4 +1,6 @@
-<h1 align="center"><strong>📸 Real-Time Face Analysis with DeepFace & Streamlit WebRTC</strong></h1
+<h1 align="center"><strong>📸 Real-Time Face Analysis with DeepFace & Streamlit WebRTC</strong></h1>
+
+<p align="center"> <img src="https://img.shields.io/badge/Project-Face%20Analyzer%20App-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Webcam-Live%20Stream-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/DeepFace-AI%20Powered%20Detection-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Streamlit-Real%20Time%20Dashboard-ff69b4?style=for-the-badge" /> <img src="https://img.shields.io/badge/OpenCV-Frame%20Processing-9cf?style=for-the-badge" /> <img src="https://img.shields.io/badge/WebRTC-Browser%20Streaming-informational?style=for-the-badge" /> <img src="https://img.shields.io/badge/Python-3.11%2B-yellow?style=for-the-badge" /> </p>
 
 <h3 align="center">
   <strong>🎯 Analyze faces in real time — straight from your browser and webcam!</strong><br>
